@@ -1,0 +1,5 @@
+From: "Library" <notices@library.example>
+Subject: Your library hours have changed
+Content-Type: text/plain; charset=utf-8
+
+Hello, the library will close at 5 PM on Friday. This is a synthetic test message.

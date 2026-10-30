@@ -1,0 +1,8 @@
+From: "Example Help Desk" <support@secure-microsoft-login.example>
+Reply-To: reviewer@helpdesk.example
+Subject: Urgent: Account suspended - act now
+Authentication-Results: test.example; spf=fail; dkim=fail
+Content-Type: text/plain; charset=utf-8
+
+Please verify your password immediately at https://secure-microsoft-login.example/check
+Synthetic example only. Do not visit the URL.
