@@ -105,5 +105,5 @@ def main():
     print(json.dumps(assessment, indent=2))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
